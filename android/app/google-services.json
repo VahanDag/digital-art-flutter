@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "661857669312",
+    "project_id": "e-tablo-demo",
+    "storage_bucket": "e-tablo-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661857669312:android:9b462fe9bbfb487feddd25",
+        "android_client_info": {
+          "package_name": "com.example.e_tablo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM9kVAi5ZiC5AvKV1vdpBsZ-kGPW5tT98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
