@@ -28,7 +28,7 @@ To start using this repository, follow the steps below:
 
     ```bash
     git clone https://github.com/VahanDag/digital-art-flutter.git
-    cd image-transfer-app
+    cd digital-art-flutter
     ```
 
 2. **Firebase Setup:**
