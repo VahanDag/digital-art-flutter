@@ -1,6 +1,9 @@
 # Image Transfer App
 
-![Watch the demo video](https://github.com/VahanDag/digital-art-flutter/blob/main/app.gif)
+
+
+  <img src="https://github.com/VahanDag/digital-art-flutter/blob/main/app.gif" width="300" />
+
 
 ## Overview
 
